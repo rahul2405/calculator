@@ -1,6 +1,3 @@
-# Visit pyGuru On YoutYouTube
-
-
 from tkinter import *
 from tkinter.ttk import Button,Entry
 
